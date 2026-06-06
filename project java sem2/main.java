@@ -3,7 +3,7 @@ import java.util.*;
 class Candidate {
     String name;
     int votes = 0;
-
+ 
     Candidate(String name) {
         this.name = name;
     }
